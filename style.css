@@ -63,9 +63,4 @@ h1, h2, h3 {
 
 #mainLeft {
     border-right: 1px solid black;
-    border-left: 1px solid black;
-}
-
-#mainRight {
-    border-right: 1px solid black;
 }
